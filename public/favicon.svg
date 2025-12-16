@@ -1,0 +1,23 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon Background: Python Blue -->
+  <rect x="2" y="2" width="60" height="60" rx="10" fill="#3776AB" stroke="#25527a" stroke-width="2"/>
+  
+  <!-- Notebook Holes (Left Side) - Mimicking the UI -->
+  <circle cx="9" cy="16" r="3" fill="#FFD43B"/>
+  <circle cx="9" cy="32" r="3" fill="#FFD43B"/>
+  <circle cx="9" cy="48" r="3" fill="#FFD43B"/>
+  
+  <!-- Vertical Divider Line -->
+  <line x1="16" y1="2" x2="16" y2="62" stroke="#25527a" stroke-width="1" stroke-opacity="0.5"/>
+
+  <!-- 'Py' Typography -->
+  <text x="38" y="44" 
+        font-family="'Courier New', monospace" 
+        font-weight="bold" 
+        font-size="34" 
+        text-anchor="middle" 
+        fill="#FFD43B" 
+        style="text-shadow: 2px 2px 0px #1e4566;">
+    Py
+  </text>
+</svg>
